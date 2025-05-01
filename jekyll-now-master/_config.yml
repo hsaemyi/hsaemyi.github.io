@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: hsaemyi
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: SQL과 데이터 분석을 위한 블로그
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
